@@ -57,3 +57,7 @@ Request body
 {
   "Asymmetric decryption process": "pfhtest`883"
 }
+
+##Disclaimer
+
+I am learning, experimenting, and practicing with coding. I am exploring different tools, techniques, and programming languages to enhance my skills. This is code is experimental and intended for educational purposes only.
