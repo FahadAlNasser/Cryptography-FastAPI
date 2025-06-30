@@ -1,4 +1,4 @@
-As you may have seen in my previous projects, I have been practicing with AI models to extract data. You may have also noticed that I have been practicing with FastAPI. From my understanding, FastAPI is created to assist developers build web APIs (Application Programming Interfaces) sufficiently and simplified. 
+As you may have seen in my previous projects, I have been practicing with a few packages. You may have also noticed that I have been practicing with FastAPI. From my understanding, FastAPI is created to assist developers build web APIs (Application Programming Interfaces) sufficiently and simplified. 
 
 In this practice, the code works to encrypt and decrypt data using both symmetric and asymmetric encryption with key generated automatically to simplify the implementation. For better security, it is essential to use API keys or authentication techniques in python to prevent unauthorized access. 
 
